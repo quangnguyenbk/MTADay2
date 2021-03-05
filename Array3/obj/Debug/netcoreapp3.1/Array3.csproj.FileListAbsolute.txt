@@ -1,0 +1,12 @@
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.exe
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.deps.json
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.dll
+C:\Users\Huy Hoang\source\repos\Day2\Array3\bin\Debug\netcoreapp3.1\Array3.pdb
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.dll
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.pdb
+C:\Users\Huy Hoang\source\repos\Day2\Array3\obj\Debug\netcoreapp3.1\Array3.genruntimeconfig.cache

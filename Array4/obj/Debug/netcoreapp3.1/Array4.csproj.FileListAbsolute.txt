@@ -1,0 +1,13 @@
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.exe
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.deps.json
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.dll
+C:\Users\Huy Hoang\source\repos\Day2\Array4\bin\Debug\netcoreapp3.1\Array4.pdb
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.csprojAssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.dll
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.pdb
+C:\Users\Huy Hoang\source\repos\Day2\Array4\obj\Debug\netcoreapp3.1\Array4.genruntimeconfig.cache
